@@ -11,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asma-Khanam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
 ### 🔝 Top Contributed Repo
 <img src="https://github-contributor-stats.vercel.app/api?username=Asma-Khanam&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
 
